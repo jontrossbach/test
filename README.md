@@ -1,3 +1,9 @@
+---
+title: Considering a Rearchitecture of Postfix to make a FLOSS Kubernetes-native MTA: a First Look
+slug: postfix-rearchitecture-a-first-look
+date: 2020-11-19
+---
+
 # Considering a Rearchitecture of Postfix to make a FLOSS Kubernetes-native MTA: a First Look
 
  	 	 	
